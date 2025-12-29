@@ -47,7 +47,8 @@
 ## 🌐 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/m-irfan-fadhli-b5b59b337/">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   </a>
 </p>
 
